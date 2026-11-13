@@ -1,0 +1,31 @@
+Order_ID,Order_Date,Customer,City,Category,Product,Quantity,Unit_Price,Salesperson
+1001,2026-01-04,Aarav,Hyderabad,Electronics,Headphones,2,1500,Riya
+1002,2026-01-06,Diya,Visakhapatnam,Home,Mixer,1,2800,Kiran
+1003,2026-01-09,Ishaan,Bengaluru,Electronics,Keyboard,3,900,Riya
+1004,2026-01-12,Meera,Hyderabad,Fashion,Backpack,2,1200,Sana
+1005,2026-01-16,Arjun,Chennai,Home,Lamp,4,650,Kiran
+1006,2026-02-02,Anaya,Visakhapatnam,Fashion,Shoes,1,2200,Sana
+1007,2026-02-05,Kabir,Hyderabad,Electronics,Mouse,5,450,Riya
+1008,2026-02-11,Sara,Bengaluru,Home,Cookware,2,1750,Kiran
+1009,2026-02-18,Vihaan,Chennai,Fashion,Jacket,1,3200,Sana
+1010,2026-02-22,Tara,Hyderabad,Electronics,Speaker,2,2400,Riya
+1011,2026-03-03,Neil,Visakhapatnam,Home,Storage Box,3,500,Kiran
+1012,2026-03-08,Aadhya,Bengaluru,Fashion,Watch,1,2600,Sana
+1013,2026-03-14,Reyansh,Chennai,Electronics,Monitor,1,9800,Riya
+1014,2026-03-19,Myra,Hyderabad,Home,Blender,2,2100,Kiran
+1015,2026-03-25,Advait,Visakhapatnam,Fashion,T-shirt,4,700,Sana
+1016,2026-04-02,Ira,Bengaluru,Electronics,USB Hub,3,800,Riya
+1017,2026-04-07,Atharv,Chennai,Home,Chair,1,4500,Kiran
+1018,2026-04-13,Kiara,Hyderabad,Fashion,Handbag,2,1900,Sana
+1019,2026-04-20,Rudra,Visakhapatnam,Electronics,Webcam,1,3100,Riya
+1020,2026-04-27,Navya,Bengaluru,Home,Bedsheet,2,1300,Kiran
+1021,2026-05-03,Aarav,Chennai,Fashion,Cap,3,400,Sana
+1022,2026-05-09,Diya,Hyderabad,Electronics,Tablet,1,14500,Riya
+1023,2026-05-15,Ishaan,Visakhapatnam,Home,Kettle,2,1100,Kiran
+1024,2026-05-21,Meera,Bengaluru,Fashion,Wallet,3,850,Sana
+1025,2026-05-28,Arjun,Chennai,Electronics,Power Bank,2,1600,Riya
+1026,2026-06-04,Anaya,Hyderabad,Home,Bookshelf,1,5200,Kiran
+1027,2026-06-10,Kabir,Visakhapatnam,Fashion,Jeans,2,1800,Sana
+1028,2026-06-16,Sara,Bengaluru,Electronics,Printer,1,7200,Riya
+1029,2026-06-22,Vihaan,Chennai,Home,Toaster,2,950,Kiran
+1030,2026-06-29,Tara,Hyderabad,Fashion,Dress,1,2500,Sana
